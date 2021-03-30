@@ -1,5 +1,5 @@
 ![Figure 1-1](traffictime.png "Figure 1-1")
-![Figure 1-2](trafficperdayline "Figure 1-2")
+![Figure 1-2](trafficperdayline.png "Figure 1-2")
 
 
 I found the top 10 most trafficked stations for March - June 2019 and am using that data moving forward.
