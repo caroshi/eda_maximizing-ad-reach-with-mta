@@ -1,4 +1,4 @@
-![Figure 1-1](traffictime.png "Figure 1-1")
+![Figure 1-1](traffictimebar.png "Figure 1-1")
 ![Figure 1-2](trafficperdayline.png "Figure 1-2")
 
 
