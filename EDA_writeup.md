@@ -35,10 +35,10 @@ I chose to analyze a four month period spanning from March to June 2019. I opted
 
 ## Communication
 _Insights:_
-	* Weekdays during morning and night commuting hours had the most traffic.
-	* There were some notable exceptions to this case:
-		* Stations near Wall Street had a significant weekend ridership drop off. Maybe it would still be smart to advertise there on the weekends with professionals still trafficking those stations to work on the weekends. 
-		* Times Square did not see a big weekend drop off, perhaps due to the influx of tourists on the weekend. Here, it would make sense to pull advertising on the weekends due to the limited distribution of our product to New York City and the irrelevancy of the product to those coming from out-of-town. 
+* Weekdays during morning and night commuting hours had the most traffic.
+* There were some notable exceptions to this case:
+	* Stations near Wall Street had a significant weekend ridership drop off. Maybe it would still be smart to advertise there on the weekends with professionals still trafficking those stations to work on the weekends. 
+	* Times Square did not see a big weekend drop off, perhaps due to the influx of tourists on the weekend. Here, it would make sense to pull advertising on the weekends due to the limited distribution of our product to New York City and the irrelevancy of the product to those coming from out-of-town. 
 
 ![Figure 1-1](trafficdaybar.png "Figure 1-1")
 ![Figure 1-2](trafficdaysubplot.png "Figure 1-2") 
